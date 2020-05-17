@@ -120,6 +120,12 @@
     }
 }
 
+.name_and_prof {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
 .video-responsive {
     overflow: hidden;
     padding-bottom: 56.25%;
